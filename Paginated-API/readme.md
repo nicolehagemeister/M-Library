@@ -16,11 +16,13 @@ if Fonte <> null and Record.HasFields(Fonte, "results")
 then Fonte[results]
 ```
 
+## How to use the function in a query
 
-
+```
 // SAMPLE QUERY THAT CONSUMES THE FUNCTION
 
 let
     Source = fc_paginada()
 in
     Source
+```
