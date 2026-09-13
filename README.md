@@ -6,13 +6,13 @@ The goal is to have a quick reference so the same logic doesn't need to be rewri
 
 | Folder | Description |
 
-| [`paginated-api/`](./paginated-api) | Generic function to consume a paginated API and combine all pages into a single table |
+| [`paginated-api/`]([./paginated-api](https://github.com/nicolehagemeister/M-Library/tree/main/Paginated-API)) | Generic function to consume a paginated API and combine all pages into a single table |
 
-| [`exchange-rate/`](./exchange-rate) | EUR/USD exchange rate via the Brazilian Central Bank API (Olinda/PTAX), with a fallback to a SharePoint backup |
+| [`exchange-rate/`]([./exchange-rate](https://github.com/nicolehagemeister/M-Library/tree/main/Exchange-rate)) | EUR/USD exchange rate via the Brazilian Central Bank API (Olinda/PTAX), with a fallback to a SharePoint backup |
 
-| [`last-update/`](./last-update) | Query to generate a "Last Updated" card (date/time of the last refresh) |
+| [`last-update/`]([./last-update](https://github.com/nicolehagemeister/M-Library/tree/main/Last-Update)) | Query to generate a "Last Updated" card (date/time of the last refresh) |
 
-| [`calendar/`](./calendar) | Dynamic calendar (date) table, with year, month, and day columns |
+| [`calendar/`]([./calendar](https://github.com/nicolehagemeister/M-Library/tree/main/Calendar)) | Dynamic calendar (date) table, with year, month, and day columns |
 
 ## How to use
 
