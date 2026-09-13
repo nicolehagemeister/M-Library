@@ -6,13 +6,13 @@ The goal is to have a quick reference so the same logic doesn't need to be rewri
 
 | Folder | Description |
 
-| [`paginated-api/`]([./Paginated-API]) | Generic function to consume a paginated API and combine all pages into a single table |
+| [`paginated-api/`](./Paginated-API) | Generic function to consume a paginated API and combine all pages into a single table |
 
-| [`exchange-rate/`]([./Exchange-rate]) | EUR/USD exchange rate via the Brazilian Central Bank API (Olinda/PTAX), with a fallback to a SharePoint backup |
+| [`exchange-rate/`](./Exchange-rate) | EUR/USD exchange rate via the Brazilian Central Bank API (Olinda/PTAX), with a fallback to a SharePoint backup |
 
-| [`last-update/`]([./Last-Update]) | Query to generate a "Last Updated" card (date/time of the last refresh) |
+| [`last-update/`](./Last-Update) | Query to generate a "Last Updated" card (date/time of the last refresh) |
 
-| [`calendar/`]([./Calendar]) | Dynamic calendar (date) table, with year, month, and day columns |
+| [`calendar/`](./Calendar) | Dynamic calendar (date) table, with year, month, and day columns |
 
 ## How to use
 
