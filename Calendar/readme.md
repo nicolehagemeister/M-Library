@@ -1,6 +1,6 @@
 # Calendar (Date) Table
 
-Generates a dynamic calendar table, from a fixed `MinDate` up to the start of next calendar year, with year, month, day, and month name columns.
+Generates a dynamic (dimension) calendar table, from a fixed `MinDate` up to the start of next calendar year, with year, month, day, and month name columns.
 
 ## How to configure
 
