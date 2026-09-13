@@ -1,7 +1,3 @@
-// ============================================================
-// CALENDAR (DATE) TABLE
-// ============================================================
-
 let
     MinDate = #date(2019,1,1), //Chose your min date
     Today = Date.From(DateTime.LocalNow()),
