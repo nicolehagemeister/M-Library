@@ -53,12 +53,3 @@ let
         )
 in
     Convertido
-
-
-
-// SAMPLE QUERY THAT CONSUMES THE FUNCTION
-
-let
-    Source = fc_paginada()
-in
-    Source
