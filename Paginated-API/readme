@@ -15,3 +15,12 @@ The function assumes the API response is a JSON object containing a `"results"` 
 if Fonte <> null and Record.HasFields(Fonte, "results")
 then Fonte[results]
 ```
+
+
+
+// SAMPLE QUERY THAT CONSUMES THE FUNCTION
+
+let
+    Source = fc_paginada()
+in
+    Source
